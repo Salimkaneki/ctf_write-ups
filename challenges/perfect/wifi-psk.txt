@@ -1,0 +1,7 @@
+OfficeWiFi - réseau de bureau (WPA2-PSK / CCMP)
+
+SSID : OfficeWiFi
+PSK  : C0ffee-Br34k-99
+
+Capture réalisée pendant qu'un poste accédait au portail interne. Le reste tient
+dans capture.pcapng. Bonne écoute.
